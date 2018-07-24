@@ -1,0 +1,5 @@
+build/
+*.gitignore
+nbproject/private/private.properties
+nbproject/private/private.xml
+/dist/
